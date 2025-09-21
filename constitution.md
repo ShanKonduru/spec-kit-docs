@@ -10,21 +10,14 @@ All code must adhere to the PEP 8 style guide for Python. It must be well-docume
 
 ### Testing
 
-All components must have a minimum of 90% test coverage. Unit tests, integration tests, and end-to-end tests are required for each major feature.
-
-All tests must have proper pytest mark annotations.
-
-All tests must be marked as Positive, Negative, and Edge cases.
-
-All tests must have Arrange, Act, Assert structure.
-
-All tests must have code coverage reports generated and reviewed.
-
-All tests must be run in a clean environment to ensure reliability.
-
-All tests must run using mocking.
-
-All integration tests must have provision to run live.
+- All components must have a minimum of 90% test coverage. Unit tests, integration tests, and end-to-end tests are required for each major feature.
+- All tests must have proper annotations.
+- All tests must be marked as Positive, Negative, and Edge cases.
+- All tests must have Arrange, Act, Assert structure.
+- All tests must have code coverage reports generated and reviewed.
+- All tests must be run in a clean environment to ensure reliability.
+- All tests must run using mocking.
+- All integration tests must have provision to run live.
 
 ### Performance Budgets
 
